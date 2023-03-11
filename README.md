@@ -1,2 +1,2 @@
 # MyBlockchain
-Blockchain from scratch using C++
+Simple blockchain from scratch using C++.
